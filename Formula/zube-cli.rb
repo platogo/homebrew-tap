@@ -4,6 +4,7 @@ class ZubeCli < Formula
   url "https://github.com/platogo/zube-cli/archive/refs/tags/0.3.0.tar.gz"
   sha256 "09af2574efbdce951862e24eeb4aaed995348281fca4a075fd2f40948d2c04fc"
   license "GPL-3.0"
+  head "https://github.com/platogo/zube-cli", branch: "master"
 
   depends_on "go" => :build
 
