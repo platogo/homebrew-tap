@@ -6,6 +6,13 @@
 
 Or `brew tap platogo/tap` and then `brew install <formula>`.
 
+You might need to add this to your `.gitconfig`:
+
+```ini
+[url "git@github.com:"]
+    insteadOf = "https://github.com/"
+```
+
 ## Available formulae
 
 - `atoss-cli`
