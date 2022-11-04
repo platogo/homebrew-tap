@@ -16,6 +16,7 @@ You might need to add this to your `.gitconfig`:
 ## Available formulae
 
 - `atoss-cli`
+- `peactl`
 - `zube-cli`
 
 ## Documentation
