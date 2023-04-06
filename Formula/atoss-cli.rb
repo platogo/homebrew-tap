@@ -12,7 +12,6 @@ class AtossCli < Formula
   depends_on "openjdk@11"
 
   def install
-    system "/usr/local/bin/brew", "install", "--cask", "chromedriver"
     jar_name = "atoss-cli-standalone.jar"
     system "lein", "uberjar"
     libexec.install "target/uberjar/#{jar_name}"
