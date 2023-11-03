@@ -1,8 +1,8 @@
 class ZubeCli < Formula
   desc "A command line utility to interact with zube.io"
   homepage "https://www.platogo.com"
-  url "https://github.com/platogo/zube-cli/archive/refs/tags/0.3.0.tar.gz"
-  sha256 "09af2574efbdce951862e24eeb4aaed995348281fca4a075fd2f40948d2c04fc"
+  url "https://github.com/platogo/zube-cli/archive/refs/tags/0.3.2.tar.gz"
+  sha256 "3d6748f90199afe01ba75dbac3c2a8787bd237cd3a26f6fe1d52e77b404ca322"
   license "GPL-3.0"
   head "https://github.com/platogo/zube-cli", branch: "master"
 
