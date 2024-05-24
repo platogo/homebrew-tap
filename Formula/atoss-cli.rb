@@ -1,9 +1,9 @@
 class AtossCli < Formula
   desc 'Command line utility for interacting with ATOSS time sheets.'
   homepage 'https://www.platogo.com'
-  url 'https://github.com/platogo/atoss-cli/archive/refs/tags/0.3.8-SNAPSHOT.tar.gz'
-  sha256 'cfc9d1b8583ca211502b936789386f5f324b76cd0c9ce6c19b47ee1b48c02c20'
-  version '0.3.8'
+  url 'https://github.com/platogo/atoss-cli/archive/refs/tags/0.3.9-SNAPSHOT.tar.gz'
+  sha256 '6952b43e9543ec83f848ef1deb13a9d00c85d85296a06a85a308565e28ad5f74'
+  version '0.3.9'
   license 'EPL-2.0'
   head 'https://github.com/platogo/atoss-cli', branch: 'master'
 
